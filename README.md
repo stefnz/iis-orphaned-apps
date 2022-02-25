@@ -10,7 +10,7 @@ The PowerShell script webapp-orphans.ps1 contains commands that can find and rem
 
 Find-Orphans
 Prints out the IIS path of any web applications where either:
-1. the phyiscal path of the web application is invalid
+1. the physical path of the web application is invalid
 2. the parent web application or virtual direction of the web application is missing
 
 Remove-Orphans
