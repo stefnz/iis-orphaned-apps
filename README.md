@@ -15,3 +15,6 @@ Prints out the IIS path of any web applications where either:
 
 `Remove-Orphans`
 Finds orphans as above and removes them.
+
+
+This is a follow up to the Microsoft post at https://social.technet.microsoft.com/wiki/contents/articles/1500.hunting-zombies-how-to-remove-orphaned-iis-web-applications.aspx
